@@ -1,6 +1,6 @@
 ---
-title: "FTechnoへようこそ"
-description: "最先端のWeb体験を、あなたに。"
+title: "浅草Gamesへようこそ"
+description: "未来をつなぐ、テクノロジーで彩る毎日。"
 ---
 
 ::hero
@@ -13,29 +13,29 @@ description: "最先端のWeb体験を、あなたに。"
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
   <div class="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center">
-    <span class="text-4xl mb-2">🚀</span>
-    <h3 class="font-bold text-lg mb-2">高速なパフォーマンス</h3>
-    <p>最新技術でストレスフリーな体験を提供します。</p>
+    <span class="text-4xl mb-2">🎮</span>
+    <h3 class="font-bold text-lg mb-2">多彩なゲーム体験</h3>
+    <p>ジャンルを問わず、誰もが楽しめるゲームを提供します。</p>
   </div>
   <div class="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center">
-    <span class="text-4xl mb-2">🎨</span>
-    <h3 class="font-bold text-lg mb-2">美しいデザイン</h3>
-    <p>洗練されたUIで直感的に操作できます。</p>
+    <span class="text-4xl mb-2">🌐</span>
+    <h3 class="font-bold text-lg mb-2">最新テクノロジー</h3>
+    <p>Web技術で快適なプレイ環境を実現します。</p>
   </div>
   <div class="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center">
-    <span class="text-4xl mb-2">🔒</span>
-    <h3 class="font-bold text-lg mb-2">安心のセキュリティ</h3>
-    <p>大切なデータをしっかり守ります。</p>
+    <span class="text-4xl mb-2">🤝</span>
+    <h3 class="font-bold text-lg mb-2">安心サポート</h3>
+    <p>ユーザーの声に寄り添い、安心して遊べる環境を守ります。</p>
   </div>
 </div>
 
 ::alert{color="green"}
-今なら無料トライアル実施中！
+今なら新規登録で特典プレゼント中！
 ::
 
 ::counter
 ::
 
 <div class="flex justify-center mt-10">
-  <a href="/about" class="px-8 py-3 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition text-lg font-semibold">詳しく見る</a>
-</div>
+  <a href="/about" class="px-8 py-3 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition text-lg font-semibold">浅草Gamesについて</a>
+</div> 
