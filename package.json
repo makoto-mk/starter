@@ -3,13 +3,20 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "nuxt build",
     "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "tailwind:init": "tailwindcss init -p"
   },
   "dependencies": {
     "@nuxt/content": "^3.5.1",
     "nuxt": "^3.17.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^7.0.0-beta.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7"
   }
 }
