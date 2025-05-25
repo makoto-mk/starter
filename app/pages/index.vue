@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-slate-50 to-slate-200 py-12">
+  <div class="flex flex-col items-center justify-center py-12">
     <div class="w-full max-w-2xl mb-10">
       <carousel />
     </div>
