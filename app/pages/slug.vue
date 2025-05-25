@@ -3,7 +3,8 @@ const route = useRoute()
 
 const { data: page } = await useAsyncData('page-' + route.path, () => {
   console.log(route.path)
-  return queryCollection('news').path(route.path).first()
+  console.log(route.params.slug[0])
+  return queryContent(route.params.slug[0])
 })
 
 if (!page.value) {
